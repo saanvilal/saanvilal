@@ -1,6 +1,9 @@
 WELCOME 🙃
 
-i'm 15 and i love AI
+hi, i'm saanvi
+
+tech i'm learning:
+Python, Git, OpenCV, Arduino
 
 <!---
 saanvilal/saanvilal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
