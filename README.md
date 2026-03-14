@@ -2,8 +2,6 @@ WELCOME 🙃
 
 👋🏽 hi, i'm saanvi
 
-tech i'm learning:
-Python, Git, OpenCV, Arduino
 
 let's connect!
 [linkedin] https://www.linkedin.com/in/saanvilal/
